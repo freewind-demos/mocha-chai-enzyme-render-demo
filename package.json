@@ -1,5 +1,5 @@
 {
-  "name": "mocha-chai-enzyme-shallow-demo",
+  "name": "mocha-chai-enzyme-render-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,6 @@
     "babel-preset-es2015": "6.13.2",
     "babel-preset-react": "6.11.1",
     "chai": "3.5.0",
-    "chai-spies": "0.7.1",
     "css-loader": "0.23.1",
     "enzyme": "2.4.1",
     "expect": "1.20.2",
